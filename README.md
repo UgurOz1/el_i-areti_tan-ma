@@ -63,14 +63,6 @@ python son.py
 ```
 
 
-## 👥 Katkıda Bulunma
-
-1. Fork'layın
-2. Feature branch'i oluşturun
-3. Değişikliklerinizi commit'leyin
-4. Branch'inizi push'layın
-5. Pull request oluşturun
-
 ## 🤝 İletişim
 
 -uguro9319@gmail.com
